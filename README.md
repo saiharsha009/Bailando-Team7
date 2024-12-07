@@ -1,4 +1,4 @@
-# Project Name: [Your Project Name]
+# Project Name: Bailando
 
 ## Overview
 This project involves generating dancing results using the VQ-VAE model. The setup includes creating a suitable environment, installing dependencies, and executing scripts for evaluation. The results of experiments are available for review in the `experiments` folder.
